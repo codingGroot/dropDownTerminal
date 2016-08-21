@@ -1,2 +1,2 @@
 # dropDownTerminal
-The gnome linux developement environment has a drop down terminal. I would like to make a very similar terminal emulation that could work on any developement environment.
+The gnome linux developement environment has a drop down terminal. I would like to make a very similar terminal emulation that could work on any developement environment. This is written in python. Currently using os.system for the commands. It handles some errors I ran into messing around with it, but it still needs some work. Currently need to add the drop down portion to the python code.
